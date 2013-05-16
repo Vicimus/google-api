@@ -1,5 +1,5 @@
 {
-    "name": "bitgandtter/google-api",
+    "name": "Vicimus/google-api",
     "type": "library",
     "description": "Google API library for PHP",
     "keywords": ["google","gdata"],
